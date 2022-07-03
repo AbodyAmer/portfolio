@@ -7,4 +7,4 @@ range: 'June 2022 - Present'
 url: 'https://www.iqvia.com/'
 ---
 
-- Joined IQVIA as a part of integration team, which reposible of interating IQVIA hospital information system with other external systems such as Laboratory information management system and Radiological information system
+- Joined IQVIA as a part of integration team, which reposible of interating IQVIA hospital information system with other external systems such as Laboratory information management system and Radiological information system.

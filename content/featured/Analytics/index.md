@@ -11,4 +11,4 @@ tech:
   - AWS Athena
 ---
 
-Built analytic system for Malaysiakini to monitor all the users page views. The sytsem is built with Kafka and AWS analytics stack like Kinesis, S3 and Athena. The system is handling 4k requests per seconds with less than 1 minute data processing and 99.99% high availability
+Built an analytic system for Malaysiakini to monitor all the users' page views. The system is built with Kafka and AWS analytics stacks like Kinesis, S3 and Athena. The system is handling 4k requests per second with less than 1-minute data processing and 99.99% high availability

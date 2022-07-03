@@ -11,5 +11,5 @@ tech:
   - GraphQL
 ---
 
-Coral project is an open-source comment system owened by Voxmedia. I manage to integrate the project into Malaysiakini website, 
-the comment system became one of the feature for paying users.
+Coral project is an open-source comment system owned by Vox media. I manage to integrate the project into the Malaysiakini website, 
+the comment system became one of the features for paying users.
