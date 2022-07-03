@@ -1,52 +1,52 @@
 module.exports = {
-  email: 'brittany.chiang@gmail.com',
+  email: 'abdullah.eshaq94@gmail.com',
 
   socialMedia: [
     {
       name: 'GitHub',
-      url: 'https://github.com/bchiang7',
+      url: 'https://github.com/AbodyAmer'
     },
+    // {
+    //   name: 'Instagram',
+    //   url: 'https://www.instagram.com/bchiang7'
+    // },
     {
-      name: 'Instagram',
-      url: 'https://www.instagram.com/bchiang7',
-    },
-    {
-      name: 'Twitter',
-      url: 'https://twitter.com/bchiang7',
+      name: 'Medium',
+      url: 'https://medium.com/@abodyamer'
     },
     {
       name: 'Linkedin',
-      url: 'https://www.linkedin.com/in/bchiang7',
-    },
-    {
-      name: 'Codepen',
-      url: 'https://codepen.io/bchiang7',
-    },
+      url: 'https://www.linkedin.com/in/abdullah-amer-273036119'
+    }
+    // {
+    //   name: 'Codepen',
+    //   url: 'https://codepen.io/bchiang7'
+    // }
   ],
 
   navLinks: [
     {
       name: 'About',
-      url: '/#about',
+      url: '/#about'
     },
     {
       name: 'Experience',
-      url: '/#jobs',
+      url: '/#jobs'
     },
     {
       name: 'Work',
-      url: '/#projects',
+      url: '/#projects'
     },
     {
       name: 'Contact',
-      url: '/#contact',
-    },
+      url: '/#contact'
+    }
   ],
 
   colors: {
     green: '#64ffda',
     navy: '#0a192f',
-    darkNavy: '#020c1b',
+    darkNavy: '#020c1b'
   },
 
   srConfig: (delay = 200, viewFactor = 0.25) => ({
@@ -62,6 +62,6 @@ module.exports = {
     reset: false,
     useDelay: 'always',
     viewFactor,
-    viewOffset: { top: 0, right: 0, bottom: 0, left: 0 },
-  }),
-};
+    viewOffset: { top: 0, right: 0, bottom: 0, left: 0 }
+  })
+}
