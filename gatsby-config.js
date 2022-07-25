@@ -3,9 +3,9 @@ const config = require('./src/config')
 
 module.exports = {
   siteMetadata: {
-    title: 'Abdullah',
+    title: 'Abody',
     description:
-      'Abdullah is a software engineer specializing in backend development. My main skills are Node.js, MongoDB, and AWS. I focus on building a high quality scalable, performant, and secure applications.',
+      'Abody is a software engineer specializing in backend development. My main skills are Node.js, MongoDB, and AWS. I focus on building a high quality scalable, performant, and secure applications.',
     siteUrl: 'https://abodyamer.com', // No trailing slash allowed!
     image: '/.png' // Path to your image you placed in the 'static' folder
     // twitterUsername: '@bchiang7'
@@ -46,8 +46,8 @@ module.exports = {
     // {
     //   resolve: 'gatsby-plugin-manifest',
     //   options: {
-    //     name: 'Abdullah',
-    //     short_name: 'Abdullah',
+    //     name: 'Abody',
+    //     short_name: 'Abody',
     //     start_url: '/',
     //     background_color: config.colors.darkNavy,
     //     theme_color: config.colors.navy,

@@ -139,7 +139,7 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hello! My name is Abdullah and I am a software developer with a passion for building web applications.
+              Hello! My name is Abody and I am a software developer with a passion for building web applications.
               I started learning how to code back in 2016 during my university studies. My first programming language was Java and switched to
               JavaScript as you can build websites, APIs and mobile applications with only one language.
             </p>
